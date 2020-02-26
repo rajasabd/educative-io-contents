@@ -2,7 +2,7 @@
 ## pending tasks:
 
 1. [largest sum in array](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
-2. [longest common subsequence)(https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
+2. [longest common subsequence](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
 3. [dynamic programming](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
 4. [back tracking](https://www.geeksforgeeks.org/backtracking-algorithms/)
 5. [leetcode backtracking](https://medium.com/@lenchen/leetcode-topics-dfs-bfs-backtracking-69b8920afedb)
